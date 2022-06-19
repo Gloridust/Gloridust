@@ -1,4 +1,4 @@
-### Hi there 👋I'm Gloridust
+# Hi there 👋I'm Gloridust
 
 - 🔭 I’m currently working on study at a senior,in Chengdu,Sichuan,China
 - 🌱 I’m currently learning Web-development and git
