@@ -51,6 +51,6 @@ key: page-about
 
 # 关于本站
 本网站是我的个人博客，服务由GitHub/Vercel/Cloudflare等提供免费服务，部分用到自己的轻量服务器提供下载服务。如果你喜欢本站，可以请我喝一杯咖啡：  
-![img.jpeg](https://i.imgur.com/vT1apaV.jpeg)  
+![img.jpeg](https://s2.loli.net/2022/06/19/LhgzE9RYSIBAkfG.jpg)  
 
 网站域名[gloridust.xyz](https://gloridust.xyz)已经本人注册，老域名 [gloridust.tk](https://gloridust.tk)即将停止解析。
