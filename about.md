@@ -25,13 +25,13 @@ titles:
   # @end locale config
 key: page-about
 ---
-### Hi there 👋I'm Gloridust
+# About me :Gloridust
 
 - 🔭 I’m currently working on study at a senior,in Chengdu,Sichuan,China
 - 🌱 I’m currently learning Web-development and git
 - 👯 I’m looking to collaborate on A preliminary study of front-end development
 - 🤔 I’m looking for help with A preliminary study of front-end development
-- 📫 How to reach me: Gloridust@gmail.com   Also my Telegram：@Gloridust
+- 📫 How to reach me: Gloridust@gmail.com   Also my Telegram：[@Gloridust](https://t.me/Gloridust)
 
 
 <p align="center">
@@ -48,3 +48,9 @@ key: page-about
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Gloridust&repo=Gloridust.github.io&theme=algolia" />
   </a>
 </p>
+
+# 关于本站
+本网站是我的个人博客，服务由GitHub/Vercel/Cloudflare等提供免费服务，部分用到自己的轻量服务器提供下载服务。如果你喜欢本站，可以请我喝一杯咖啡：  
+![img.jpeg](https://i.imgur.com/vT1apaV.jpeg)  
+
+网站域名[gloridust.xyz](https://gloridust.xyz)已经本人注册，老域名 [gloridust.tk](https://gloridust.tk)即将停止解析。
