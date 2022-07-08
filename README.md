@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on study at a senior,in Chengdu,Sichuan,China
 - 🌱 I’m currently learning Web-development and git
 - 👯 I’m looking to collaborate on A preliminary study of front-end development
-- 🤔 I’m looking for help with A preliminary study of front-end development
-- 📫 How to reach me: Gloridust@gmail.com   Also my Telegram：@Gloridust
+- 📫 How to reach me: Gloridust@gmail.com;Also my Telegram：@Gloridust;My blog is ok ：gloridust.xyz
 
 
 <p align="center">
