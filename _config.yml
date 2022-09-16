@@ -5,7 +5,7 @@ baseurl: ""
 author: "辉晨Gloridust"
 paginate: 5
 paginate_path: "/blog/page:num/"
-theme: jekyll-theme-mdui
+
 
 plugins:
   - jekyll-sitemap
