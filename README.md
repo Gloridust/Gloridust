@@ -20,3 +20,5 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Gloridust&repo=Gloridust.github.io&theme=algolia" />
   </a>
 </p>
+
+原主题参考该[文档](http://mdui.kejun.me/#/zh-cn/)
