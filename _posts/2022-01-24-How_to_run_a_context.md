@@ -1,9 +1,14 @@
 ---
 title: 如何经营一个文案馆？频道+网页  
-tags: 干货
+tags: 编程 前端 干货
+layout: post
+date:   2022-01-24
+categories: 编程 前端 干货
+img: /images/2022-01-24/3762306_a9d119d0_1200_2482_418@1080x485.jpeg
+# describe: 如何经营一个文案馆？频道+网页
 ---
 
-![image.png](https://s2.loli.net/2022/01/26/Ghp4CoQUWMxkITO.png)  
+![image.png](/images/2022-01-24/3762306_a9d119d0_1200_2482_418@1080x485.jpeg)  
 前段时间看到初恋转发了一个微信公众号的文章，进去看了看原来是类似于文案馆的地方。于是，时常emo的我就想：我能不能也开一家文案馆呢？(正好把我写了一年的网抑云小本本拿出来用)
 本文链接都放在末尾.  
 ![image.png](https://s2.loli.net/2022/01/26/9dIGkvSCDeqQ6Zn.png)  
