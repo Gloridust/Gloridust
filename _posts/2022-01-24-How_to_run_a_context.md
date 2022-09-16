@@ -3,13 +3,14 @@ title: 如何经营一个文案馆？频道+网页
 tags: 干货
 ---
 
-* * *            
 ![image.png](https://s2.loli.net/2022/01/26/Ghp4CoQUWMxkITO.png)  
 前段时间看到初恋转发了一个微信公众号的文章，进去看了看原来是类似于文案馆的地方。于是，时常emo的我就想：我能不能也开一家文案馆呢？(正好把我写了一年的网抑云小本本拿出来用)
 本文链接都放在末尾.  
 ![image.png](https://s2.loli.net/2022/01/26/9dIGkvSCDeqQ6Zn.png)  
+
 于是我尝试在蓝色🛫软件开了家文案频道。(至于为什么不在微信，是因为限制比较多，而且操作不太方便)  
 ![image.png](https://s2.loli.net/2022/01/26/mN5tEQABwjclRsP.png)  
+
 我更喜欢的是频道功能的设计，想在群聊内发消息一样方便，可以随时编辑，还有定时消息，很方便的评论功能和followers互动。  
 ![image.png](https://s2.loli.net/2022/01/26/xHMJmdXWyoaZGBR.png)  
 接下来就到了网页的实现。为了保证风格与(wo)频(ji)道(shu)一(bu)致(xing)，信息页面我直接运用了频道软件的导出功能，导出为html后直接挂上去，在头部尾部稍作修改，添加几个跳转按钮就ok了。  
