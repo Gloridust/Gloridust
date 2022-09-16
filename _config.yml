@@ -1,10 +1,11 @@
-title: "Jekyll-Theme-MDUI"
-description: "Material Design for Jekyll powered by MDUI"
-url: 
+title: "辉晨雨幕"
+description: "辉晨Gloridust的个人博客空间"
+url: https://gloridust.xyz
 baseurl: ""
-author: "KeJun"
+author: "辉晨Gloridust"
 paginate: 5
 paginate_path: "/blog/page:num/"
+theme: jekyll-theme-mdui
 
 plugins:
   - jekyll-sitemap
