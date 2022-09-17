@@ -6,7 +6,7 @@ date: 2022-09-17
 categories: 黑苹果
 layout: post
 author: CharlesSu
-describe: 这是一篇适合黑苹果毫无了解的小白。本文转载已经原作者[@CharlesSu]()同意，如二次转载请联系作者并标明出处。文章封面来源于网络。  
+describe: 本文适合黑苹果毫无了解的小白。本文转载已经原作者[@CharlesSu]()同意，如二次转载请联系作者并标明出处。文章封面来源于网络。  
 ---
 
 # 黑苹果指南
