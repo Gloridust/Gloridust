@@ -12,7 +12,7 @@ Progressive Web App 带来的体验将网络之长与应用之长相结合。用
 
 ```json
 {
-  "name": "辉晨雨幕博客",
+  "name": "辉晨雨幕",
   "short_name": "辉晨雨幕",
   "icons": [{
         "src": "assets/images/touch/icon-128x128.png",
