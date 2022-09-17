@@ -1,9 +1,9 @@
-- name: KeJun
-  image: https://ooo.0o0.ooo/2017/05/26/5928368d409dd.png
-  url: https://kejun.me
-  describe: 二次元智障
+- name: 江村暮ReneWang
+  image: /assets/images/head-pic/ReneWang.png
+  url: https://Rene.wang
+  describe: 前端开发大佬，天才少年。
 
-- name: MDUI
-  image: 
-  url: https://www.mdui.org/
-  describe: 一套用于开发 Material Design 网页的前端框架
+- name: CharlesSu
+  image: /assets/images/head-pic/CharlesSu.png
+  url: https://t.me/Mistry_Rain
+  describe: 乐于折腾，擅长刷机、黑苹果
