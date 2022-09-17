@@ -1,7 +1,11 @@
 ---
 title: 转载:关于003航母下水的一些看法  
-tags: 转载 杂谈  
+tags: 转载 军事  
 img: /images/2022-01-24/003-2021-6-30.jpg
+date:   2022-01-24
+categories: 杂谈
+layout: post
+author: DELY
 ---
 
 ## 2022年6月17日国产航母003在江南造船厂下水，命名为福建舰。
