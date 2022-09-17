@@ -2,7 +2,7 @@
 title: 转载:关于003航母下水的一些看法  
 tags: 转载 军事  
 img: /images/2022-06-18/003-2021-6-30.jpg
-date:   2022-01-24
+date:   2022-06-18
 categories: 杂谈
 layout: post
 author: DELY
