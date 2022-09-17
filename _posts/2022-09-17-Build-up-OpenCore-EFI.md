@@ -81,7 +81,7 @@ Intel的集显(HD+一些数字)、AMD的独立显卡大多都可驱动，这个�
 
 #### *必须下载*
 
-~~这里的文件[参考](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#must-haves)部分软件~~
+~~这里的文件参考 [这个网站](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#must-haves)部分软件~~
 请记住他的别称（打在括号里的）
 
 
@@ -150,7 +150,7 @@ SMCDellSensors.kext(仅限dell用户)
 
  ~~仅支持到10.13.6~~
 
-[参考](https://www.bilibili.com/video/BV1wr4y1r78X?spm_id_from=333.337.search-card.all.click&vd_source=b2ed1387674e77df3a3f4f6acfe5a846)
+参考自[这个网站](https://www.bilibili.com/video/BV1wr4y1r78X?spm_id_from=333.337.search-card.all.click&vd_source=b2ed1387674e77df3a3f4f6acfe5a846)
 这个部分争议较大，且这个技术比较新，又加上我没有Nvdia的显卡无法测试
 
 所以英伟达用户请自行测试
@@ -254,7 +254,7 @@ AMD显卡要么就是免驱
 6.现在，请新建一个文件夹，把文件放入，命名为「ACPI」替换在「最简EFI』文件夹里
 
 ### *配置OpenCoreCFG*
-[请看](https://post.smzdm.com/p/aqm8nxvx/)，这个部分这个作者写的好，请看他
+请看[这个网站](https://post.smzdm.com/p/aqm8nxvx/)，这个部分这个作者写的好，请看他
 
 以后会考虑自己写
 
@@ -340,8 +340,7 @@ AMD显卡要么就是免驱
 
 转载请注明出处，可以二创。
 
-
-如果你在安装时遇到问题，可联系飞机号：[@CharlesSu](https://t.me/Mistry_Rain)
+如果你在安装时遇到问题，可在飞机号：[Charles](https://t.me/Mistry_Rain)
 
 所有的操作均来自互联网，遇到问题请你自己负责！
 
