@@ -33,7 +33,7 @@ sns_share: # SNS Share Switch
 
 comment:
 # 评论功能使用Beaudar已手动写入到gitment
-  used: "" # disqus,livere,gitment,valine
+  used: "gitment" # disqus,livere,gitment,valine
   # disqus config
   disqus_shortname: "" # Your disqus
   disqus_button: false # disqus load button
