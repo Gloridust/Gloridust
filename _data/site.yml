@@ -32,6 +32,7 @@ sns_share: # SNS Share Switch
    telegram: true
 
 comment:
+# 评论功能使用Beaudar已手动写入到gitment
   used: "" # disqus,livere,gitment,valine
   # disqus config
   disqus_shortname: "" # Your disqus
