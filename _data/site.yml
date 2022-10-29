@@ -23,11 +23,11 @@ card:
 many_authors: True
 
 sns_share: # SNS Share Switch
-   twitter: true
+   twitter: false
    facebook: false
    googleplus: false
    weibo: true
-   linkedin: false
+   linkedin: True
    qq: true
    telegram: true
 
