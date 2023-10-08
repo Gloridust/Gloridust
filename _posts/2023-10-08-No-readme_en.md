@@ -8,7 +8,7 @@ img: /images/2023-10-08/cover.png
 describe: 也许，我们不应该把大量的精力放在写文档上面，而是集中精力在开发上面。也许，我们不必每次再写一次英文README文件...
 ---
 ## 最近
-最近在做一些小东西，开源到了[我的Github](https://github.com/Gloridust)上面。考虑到以后面对国际市场以及国际化的问题，我几乎所有自己开发的项目都需要写英文版文档。可是每次写英文README文件都回花费我不少的时间与精力。正如[Rene](https://rene.wang)所说：我无法把精力集中在开发上。  
+最近在做一些小东西，开源到了[我的Github](https://github.com/Gloridust)上面。考虑到以后面对国际市场以及国际化的问题，我几乎所有自己开发的项目都需要写英文版文档。可是每次写英文README文件都会花费我不少的时间与精力。正如[Rene](https://rene.wang)所说：我无法把精力集中在开发上。  
 所以我想：能不能每次只写中文版README文件，然后自动生成英文版呢？  
 
 ## ReadmeTranslator
