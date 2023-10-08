@@ -36,5 +36,6 @@ describe: 也许，我们不应该把大量的精力放在写文档上面，而�
  ## 目前
  目前为止，程序大体能够运行，但是对于文本和代码的区分还有待加强。过几天有空了我再做修改...
 
+最后附上Github 项目地址​：[https://github.com/Gloridust/Readmetranslator](https://github.com/Gloridust/Readmetranslator)
+
  睡觉！
- 
