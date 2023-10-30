@@ -38,4 +38,4 @@ describe: 也许，我们不应该把大量的精力放在写文档上面，而�
 
 最后附上Github 项目地址​：[https://github.com/Gloridust/Readmetranslator](https://github.com/Gloridust/Readmetranslator)
 
- 睡觉！
+ 睡觉！ 
