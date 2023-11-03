@@ -99,12 +99,16 @@ describe: 去年1月曾经写过一篇文章，讲述了如何以最低级技术
         headers: response.headers
     });
     }
+
+
 值得注意的是，在开头的这一行中，请把“WannaRainsNote”更换为你自己的频道名。
 
     const upstream_path = '/s/WannaRainsNote';
+
 因为每个账户的Workers次数有限，我们限制它只能镜像我们的频道；如果你要放开限制，请改为：
 
     const upstream_path = '/s/';
+
 最后点击“保存并部署”。不出意外的话，使用默认的.dev域名在魔法上网的环境下已经可以访问了。但为了实现我们的最终目的，接下来还要继续设置路由和解析。
 
 点击网站标签，进入你要解析的域名。打开域名页面后，进入“Workers路由”标签（注意不是在控制面板主页直接点击workers）。
@@ -126,6 +130,7 @@ describe: 去年1月曾经写过一篇文章，讲述了如何以最低级技术
 
     // Custom pathname for the upstream website.
     const upstream_path = '/';
+
 这样它就会被镜像到网站目录下的“/google”了。
 
 如果你觉得这篇文章对你有所启发，麻烦点赞收藏，谢谢！
