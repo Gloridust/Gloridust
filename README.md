@@ -1,7 +1,7 @@
 # Hi there 👋I'm Gloridust
 
 - 🔭 I’m working on study at a University,in Yibin,Sichuan,China
-- 🌱 I’m learning Web-development and git
+- 🌱 I’m learning Web-development and Python
 - 👯 I’m looking to collaborate on A preliminary study of front-end development
 - 🏗️ I'm working in [YGeeker](https://ygeeker.com) as CMO
 - 📫 How to reach me: <Gloridust@gmail.com>;Also my blog is ok ：[辉晨雨幕](https://gloridust.xyz)
