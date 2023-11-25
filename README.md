@@ -6,7 +6,7 @@
 - 🏗️ I'm working in [YGeeker](https://ygeeker.com) as CMO
 - 📫 How to reach me: <Gloridust@gmail.com>;Also my blog is ok ：[辉晨雨幕](https://gloridust.xyz)
 
-[![Gloridust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloridust&show=&show_icons=true&include_all_commits=true&theme=algolia&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3include_all_commits=true)](https://github.com/Gloridust)
+[![Gloridust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloridust&show=&show_icons=true&include_all_commits=true&theme=algolia&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3&include_all_commits=true)](https://github.com/Gloridust)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gloridust&show_icons=true&theme=algolia&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3)](https://github.com/Gloridust)
 
