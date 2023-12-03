@@ -3,7 +3,7 @@ title: 高考后的180天，我们怎么样了？
 tags: 人生 成长
 layout: post
 date: 2023-12-04 +0800
-categories: 技术
+categories: 生活
 img: /images/2023-12-04/cover.jpg
 describe: 高考后，一切好像回到了正轨。当然，“高考后时代”好像与过去长辈的描述、自己的幻想大相径庭。那么，高考后的180天，我们怎么样了？
 ---
