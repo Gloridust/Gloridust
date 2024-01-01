@@ -1,5 +1,5 @@
 ---
-title: 元旦和5部电影
+title: 2024的元旦和5部电影
 tags: 人生 成长
 layout: post
 date: 2024-1-1 +0800
@@ -15,3 +15,6 @@ describe: 一个平淡无奇的元旦，然后看了几部电影...
 ![mv1](/images/2024-01-01/mv1.jpg)
 
 ![mv2](/images/2024-01-01/mv2.jpg)
+
+* * *
+
