@@ -46,6 +46,8 @@ git clone https://github.com/Gloridust/RuijieWIFI-AutoLogin.git
 
 ![jpg](/images/2024-01-12/4.jpg)
 
+更正：`service`的数据可能出错，例如：`中国电信`请填`dianxin`
+
 ## 运行
 
 如果一切顺利，你已经可以运行它了：
