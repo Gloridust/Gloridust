@@ -2,7 +2,7 @@
 title: 告别校园网掉线：Python 自动登录锐捷校园网
 tags: Python 干货
 layout: post
-date: 2024-1-9 +0800
+date: 2024-1-12 +0800
 categories: 技术
 img: /images/2024-01-12/cover.png
 describe:  厌烦了校园网时不时掉线，写一个 Python 程序自动登录...
