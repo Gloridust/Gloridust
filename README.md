@@ -21,7 +21,7 @@
 - 🔭 I’m studying at a University in Yibin, Sichuan, China.
 - 🌱 I’m learning Web development and Python.
 - 👯 I’m looking to collaborate on front-end development projects.
-- 🏗️ I'm currently working at [YGeeker](https://ygeeker.com) as CMO.
+- 🏗️ I'm currently working at [YGeeker](https://ygeeker.com) as Co-founder.
 - 📫 You can reach me at <Gloridust@gmail.com>; Also, check out my blog [辉晨雨幕](https://gloridust.xyz).
 
 Radio, codes, and distance are my life.
