@@ -7,7 +7,7 @@
 > **"In the moon thou sendest thy love letters to me,"**  
 > **said the night to the sun.**  
 > **"I leave my answers in tears upon the grass."**
->Rabindranath Tagore** | **Stray Birds  
+> **Rabindranath Tagore** | **Stray Birds**  
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloridust&hide=&hide_progress=true&langs_count=8&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="203" width="435" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloridust&hide=&hide_progress=true&langs_count=8&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="200" width="440" align="right">
 
 - 🔭 I’m studying at a University in Yibin, Sichuan, China.
 - 🌱 I’m learning Web development and Python.
