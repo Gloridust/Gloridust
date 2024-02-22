@@ -1,12 +1,10 @@
 # Hi there! 👋 I'm Gloridust
 
-> "In the moon thou sendest thy love letters to me,"
->
-> said the night to the sun.
->
-> "I leave my answers in tears upon the grass. "
->
-> **Rabindranath Tagore** | **Stray Birds**
+> "In the moon thou sendest thy love letters to me,"  
+> said the night to the sun.  
+> "I leave my answers in tears upon the grass."
+
+**Rabindranath Tagore** | **Stray Birds**
 
 <div align="right">
   <div style="padding: 10px;">
@@ -18,19 +16,20 @@
   </div>
 </div>
 
-- 🔭 I’m working on studying at a University in Yibin, Sichuan, China.
+- 🔭 I’m studying at a University in Yibin, Sichuan, China.
 - 🌱 I’m learning Web development and Python.
-- 👯 I’m looking to collaborate on a preliminary study of front-end development.
-- 🏗️ I'm working at [YGeeker](https://ygeeker.com) as CMO.
-- 📫 How to reach me: <Gloridust@gmail.com>; Also, my blog is available at [辉晨雨幕](https://gloridust.xyz).
+- 👯 I’m looking to collaborate on front-end development projects.
+- 🏗️ I'm currently working at [YGeeker](https://ygeeker.com) as CMO.
+- 📫 You can reach me at <Gloridust@gmail.com>; Also, check out my blog [辉晨雨幕](https://gloridust.xyz).
 
 Radio, codes, and distance are my life.
 
-As a member of [YGeeker](https://github.com/ygeeker), I also believe that technology and life can coexist harmoniously.
+As a member of [YGeeker](https://github.com/ygeeker), I believe that technology and life can coexist harmoniously.
 
 Code the world!
 
 * * *
+
 <a href="https://www.ygeeker.com">
   <img width="180" alt="create by ygeeker" src="https://www.ygeeker.com/badge/create.png">
 </a >
