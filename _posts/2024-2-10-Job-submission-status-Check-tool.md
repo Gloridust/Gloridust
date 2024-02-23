@@ -4,7 +4,7 @@ tags: Python 干货
 layout: post
 date: 2024-2-10 +0800
 categories: 技术
-images: /images/2024-02-10/cover.png
+img: /images/2024-02-10/cover.png
 describe:  现在，你可以使用这个程序来大幅度减轻工作量...
 ---
 
