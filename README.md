@@ -35,5 +35,5 @@ Code the world!
 * * *
 
 <a href="https://www.ygeeker.com">
-  <img width="180" alt="create by ygeeker" src="https://www.ygeeker.com/badge/create.png">
+  <img width="180" alt="Sponsored by YGeeker" src="https://www.ygeeker.com/badge/sponsor.png">
 </a >
