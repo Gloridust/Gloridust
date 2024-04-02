@@ -3,6 +3,7 @@
 <div>
 
  <img src="https://github-readme-stats.vercel.app/api?username=Gloridust&show_icons=true&hide_title=true&hide=contribs&include_all_commits=False&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="110" width="440" align="right">
+<br>
 
 > **"In the moon thou sendest thy love letters to me,"**  
 > **said the night to the sun.**  
@@ -10,9 +11,13 @@
 
 > **Rabindranath Tagore** | **Stray Birds**  
 
+<br>
 </div>
+
 <hr/>
+
 <div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloridust&hide=&hide_progress=true&langs_count=8&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="200" width="440" align="right">
 
 - 🔭 I’m studying at a University in Yibin, Sichuan, China.
