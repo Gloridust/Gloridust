@@ -11,10 +11,7 @@
 
 > **Rabindranath Tagore** | **Stray Birds**  
 
-<br>
 </div>
-
-<hr/>
 
 <div>
 
