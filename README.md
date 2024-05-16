@@ -15,8 +15,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloridust&hide=&hide_progress=true&langs_count=8&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="200" width="440" align="right">
 
-- 🔭 Studying at a University in Yibin, Sichuan, China.
-- 🌱 Learning Web development and Python.
+- 🔭 Studying at a University in Sichuan, China.
+- 🌱 Learning React and Python.
 - 👯 Looking to collaborate on front-end development projects.
 - 🏗️ Currently working at [YGeeker](https://ygeeker.com) as a Co-founder.
 - 📫 You can reach me at <Gloridust@gmail.com>; Also, check out my blog [辉晨雨幕](https://gloridust.xyz).
