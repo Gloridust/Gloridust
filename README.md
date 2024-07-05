@@ -13,7 +13,8 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloridust&hide=&hide_progress=true&langs_count=8&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="200" width="440" align="right">
-  
+
+  - 🇨🇳 Can Speak Mandarin and English, and am learning French and Japanese
   - 🔭 Studying at a University in Sichuan, China.
   - 🌱 Learning React and Python.
   - 👯 Looking to collaborate on front-end development projects.
