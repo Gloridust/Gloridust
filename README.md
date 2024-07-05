@@ -19,7 +19,7 @@
   - 🌱 Learning React and Python.
   - 👯 Looking to collaborate on front-end development projects.
   - 🏗️ Currently working at [YGeeker](https://ygeeker.com) as a Co-founder.
-  - 📫 You can reach me at <Gloridust@gmail.com>; Also, check out my blog [辉晨雨幕](https://gloridust.xyz).
+  - 📫 You can reach me at <contact@gloridust.xyz>; Also, check out my blog [辉晨雨幕](https://gloridust.xyz).
   - ⚙️ Contributor of [LocalSend](https://github.com/localsend/localsend) [ChatTTS](https://github.com/2noise/ChatTTS) [Geekits](https://github.com/RiverTwilight/Geekits).
   
   Radio, codes, and distance are my life.
