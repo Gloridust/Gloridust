@@ -2,7 +2,7 @@ head:
    favicon: "/favicon.ico" #  the favicon
    high_res_favicon: "/favicon.png" #  the favicon using high quality format
    apple_touch_icon: "/favicon-w.png" # the iOS Home button icon
-   keywords: "辉晨雨幕_辉晨Gloridust的个人博客" #  the site keywords
+   keywords: "Gloridust,辉晨,blog,YGeeker，co-founder" #  the site keywords
 
 uiux:
    android_chrome_color: "#eeeeee" #  the color of the Chrome address bar
