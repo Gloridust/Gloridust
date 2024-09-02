@@ -1,17 +1,14 @@
 # Hi there! 👋 I'm Gloridust
 
-<div align="center">
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gloridust&show_icons=true&hide_title=true&hide=contribs&include_all_commits=False&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="110" width="440" align="right">
+  <br>
+  
   > **"In the moon thou sendest thy love letters to me,"**  
   > **said the night to the sun.**  
   > **"I leave my answers in tears upon the grass."**  
   
   > **Rabindranath Tagore** | **Stray Birds**  
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gloridust&show_icons=true&hide_title=true&hide=contribs&include_all_commits=False&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="110">
 </div>
 
 ## About Me
