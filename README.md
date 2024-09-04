@@ -18,7 +18,7 @@
 - 🌱 Learning React/NextJS, Flutter, SwiftUI and Python
 - 🏗️ Currently working at [YGeeker](https://ygeeker.com) as a Co-founder
 - 📫 Reach me at <contact@gloridust.xyz>
-- 🌐 Check out my blog [辉晨雨幕](https://gloridust.xyz)
+- 🌐 Check out my blog [Ethan's Blog](https://gloridust.xyz)
 - ⚙️ Contributor of [LocalSend](https://github.com/localsend/localsend), [ChatTTS](https://github.com/2noise/ChatTTS), [Geekits](https://github.com/RiverTwilight/Geekits)
 
 Radio, codes, and distance are my life. As a member of [YGeeker](https://github.com/ygeeker), I believe that technology and life can coexist harmoniously.
