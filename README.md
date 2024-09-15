@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gloridust
+# Hi there! 👋 I'm Ethan Zou (Gloridust)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Gloridust&show_icons=true&hide_title=true&hide=contribs&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="125" width="420" align="right">
