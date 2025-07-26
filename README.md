@@ -18,7 +18,7 @@
 - **🌱 Skills**: Actively learning React/NextJS, Flutter, SwiftUI, and Python.
 - **🏗️ Entrepreneurial Endeavor**: Co-founder at [YGeeker](https://ygeeker.com).
 - **📫 Contact**: Reach me at <contact@isethan.me>.
-- **🌐 Blog**: Check out my blog [Ethan's Blog](https://gloridust.xyz).
+- **🌐 Blog**: Check out my blog [Ethan's Blog](https://isethan.me).
 - **⚙️ Contributions**: Contributor of [LocalSend](https://github.com/localsend/localsend), [ChatTTS](https://github.com/2noise/ChatTTS), [whisper_streaming](https://github.com/Gloridust/whisper_streaming_CN), and [Geekits](https://github.com/RiverTwilight/Geekits).
 
 Radio, codes, and distance are integral parts of my life. As a member of [YGeeker](https://github.com/ygeeker), I firmly believe that technology and life can blend harmoniously. 
