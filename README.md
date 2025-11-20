@@ -13,9 +13,9 @@
 
 ## About Me
 
-- **🇨🇳 Languages**: Fluent in Mandarin and English. Currently learning French and Japanese.
+- **🇨🇳 Languages**: Fluent in Mandarin and English. Currently learning French.
 - **🔭 Education**: Studying at a university in Sichuan, China.
-- **🌱 Skills**: Actively learning React/NextJS, Flutter, SwiftUI, and Python.
+- **🌱 Skills**: Actively learning React/NextJS, and Python.
 - **🏗️ Entrepreneurial Endeavor**: Co-founder at [YGeeker](https://ygeeker.com).
 - **📫 Contact**: Reach me at <contact@isethan.me>.
 - **🌐 Blog**: Check out my blog [Ethan's Blog](https://isethan.me).
@@ -34,7 +34,5 @@ Code the world!
 ---
 
 <div align="center">
-<a href="https://www.ygeeker.com">
-<img width="180" alt="Sponsored by YGeeker" src="https://www.ygeeker.com/badge/sponsor.png">
-</a>
+
 </div>
