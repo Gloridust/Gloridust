@@ -13,11 +13,11 @@
 
 ## About Me
 
-- **🇨🇳 Languages**: Fluent in Mandarin and English. Currently learning French.
+- **🇨🇳 Languages**: Fluent in Mandarin and English. 
 - **🔭 Education**: Studying at a university in Sichuan, China.
-- **🌱 Skills**: Actively learning React/NextJS, and Python.
+- **🌱 Skills**: Actively learning React/NextJS, Flutter, SwiftUI, and Python.
 - **🏗️ Entrepreneurial Endeavor**: Co-founder at [YGeeker](https://ygeeker.com).
-- **📫 Contact**: Reach me at <ethan@endpage.net>.
+- **📫 Contact**: Reach me at <contact@isethan.me>.
 - **🌐 Blog**: Check out my blog [Ethan's Blog](https://isethan.me).
 - **⚙️ Contributions**: Contributor of [LocalSend](https://github.com/localsend/localsend), [ChatTTS](https://github.com/2noise/ChatTTS), [whisper_streaming](https://github.com/Gloridust/whisper_streaming_CN), and [Geekits](https://github.com/RiverTwilight/Geekits).
 
@@ -34,5 +34,7 @@ Code the world!
 ---
 
 <div align="center">
-
+<a href="https://www.ygeeker.com">
+<img width="180" alt="Sponsored by YGeeker" src="https://www.ygeeker.com/badge/sponsor.png">
+</a>
 </div>
