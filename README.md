@@ -1,13 +1,13 @@
-         # Hi there! 👋 I'm Ethan Zou (Gloridust)
+# Hi there! 👋 I'm Ethan Zou (Gloridust)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gloridust&show_icons=true&hide_title=true&hide=contribs&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="125" width="420" align="right">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gloridust&theme=nord_bright" height="190" align="right">
   <br>
-  
+
   > **"In the moon thou sendest thy love letters to me,"**  
   > **said the night to the sun.**  
   > **"I leave my answers in tears upon the grass."**  
-  
+
   > **Rabindranath Tagore** | **Stray Birds**  
 </div>
 
@@ -25,10 +25,13 @@ Radio, codes, and distance are integral parts of my life.
 
 Code the world!
 
-## Languages
+## Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloridust&hide=&hide_progress=true&langs_count=8&layout=compact&bg_color=4EBFFE,63C862,FFCA3D&title_color=f3f3f3&text_color=f3f3f3" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gloridust&theme=nord_bright" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gloridust&theme=nord_bright" height="200">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gloridust&theme=nord-dark&hide_border=true" height="200">
 </div>
 
 ---
