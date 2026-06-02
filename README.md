@@ -33,11 +33,3 @@ Code the world!
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gloridust&theme=nord-dark&hide_border=true" height="200">
 </div>
-
----
-
-<div align="center">
-<a href="https://www.ygeeker.com">
-<img width="180" alt="Sponsored by YGeeker" src="https://www.ygeeker.com/badge/sponsor.png">
-</a>
-</div>
