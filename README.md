@@ -1,15 +1,21 @@
 # Hi there! 👋 I'm Ethan Zou (Gloridust)
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gloridust&theme=nord_bright" height="190" align="right">
-  <br>
+<table>
+  <tr>
+    <td valign="middle" width="42%">
 
-  > **"In the moon thou sendest thy love letters to me,"**  
-  > **said the night to the sun.**  
-  > **"I leave my answers in tears upon the grass."**  
+> **"In the moon thou sendest thy love letters to me,"**  
+> **said the night to the sun.**  
+> **"I leave my answers in tears upon the grass."**
 
-  > **Rabindranath Tagore** | **Stray Birds**  
-</div>
+> **Rabindranath Tagore** | **Stray Birds**
+
+  </td>
+    <td valign="middle" width="58%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gloridust&theme=nord_bright" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
